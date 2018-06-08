@@ -1,7 +1,7 @@
 {
   "name": "react-boilerplate",
   "version": "1.0.0",
-  "description": "",
+  "description": "My Personal React Boilerplate",
   "main": "index.js",
   "directories": {
     "test": "test"
