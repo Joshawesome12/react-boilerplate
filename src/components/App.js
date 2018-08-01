@@ -4,7 +4,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h1>Welcome to my boilerplate</h1>
+        <h1>Welcome to MY react boilerplate</h1>
       </div>
     )
   }
