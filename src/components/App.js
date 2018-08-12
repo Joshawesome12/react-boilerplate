@@ -4,7 +4,8 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h1>Welcome to MY react boilerplate</h1>
+        <h1 className="welcome">Welcome to MY react boilerplate</h1>
+        <img className="react-img" src={require('./resources/react.png')} alt='react'/>
       </div>
     )
   }
